@@ -2,7 +2,7 @@
 - 👀 I’m interested in codes and tunes
 - 🌱 I’m currently learning how to flow on git
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me @MBragi
+- 📫 How to reach me @mbragi
 
 <!---
 MBragi/MBragi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
