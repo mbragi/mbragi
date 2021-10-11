@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MBragi
+- 👋 Hi, I’m @mbragi
 - 👀 I’m interested in codes and tunes
 - 🌱 I’m currently learning how to flow on git
 - 💞️ I’m looking to collaborate on projects
