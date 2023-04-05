@@ -4,7 +4,7 @@ A Software Engineer with Knowledge and Experience of Both Stacks(Front End & Bac
 I build web and mobile Application's && develop and deploy Dapp's(web3) and also Mentor Aspiring software developers with interest in learning 
 || acquiring Skills using day to day Technologies && Tools to Provide solutions to Real-Life scenerios.
 - 👀 I’m interested in Clean, Readable and Reusable Code that Scale.
-- 📫 You can send me a mail at spontaneousmanji@gmail.com to collaborate or hire
+- 📫 You can send me a mail at,  spontaneousmanji@gmail.com to collaborate or hire
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbragi&label=Profile%20views&color=0e75b6&style=flat" alt="mbragi" /> </p>
