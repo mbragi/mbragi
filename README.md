@@ -16,6 +16,9 @@ I build web and mobile Application's && develop and deploy Dapp's(web3) and also
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbragi&show_icons=true&locale=en" alt="mbragi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbragi&" alt="mbragi" /></p>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gar-manji-michael" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/gar-manji-michael?trk=profile-badge">Gar Manji</a></div>
+              
 <!---
 MBragi/MBragi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
