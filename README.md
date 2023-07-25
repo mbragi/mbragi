@@ -1,11 +1,12 @@
-# Hello There 👋, 
-## I’m Gar Manji Michael.
-A Software Engineer with Knowledge and Experience of Both Stacks(Front End & Back End).
-I build web and mobile Application's && develop and deploy Dapp's(web3) and also Mentor Aspiring software developers with interest in learning 
-|| acquiring Skills using day to day Technologies && Tools to Provide solutions to Real-Life scenerios.
-- 👀 I’m interested in Clean, Readable and Reusable Code that Scale.
-- 📫 You can send me a mail at,  spontaneousmanji@gmail.com to collaborate or hire
+#Hello there! 👋
 
+I'm Gar Manji Michael, a Software Engineer with expertise in both Front End and Back End development. My skills cover building web and mobile applications, developing and deploying Dapps (web3), and mentoring aspiring software developers.
+
+I'm passionate about creating clean, readable, and reusable code that scales effectively. My goal is to use the latest technologies and tools to provide practical solutions to real-life scenarios.
+
+-If you're interested in collaborating or hiring me for a project, please feel free to reach out to me at spontaneousmanji@gmail.com.
+
+Looking forward to the opportunity to work together! 😊
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbragi&label=Profile%20views&color=0e75b6&style=flat" alt="mbragi" /> </p>
 
