@@ -1,4 +1,4 @@
-#Hello there! 👋
+# Hello there! 👋
 
 I'm Gar Manji Michael, a Software Engineer with expertise in both Front End and Back End development. My skills cover building web and mobile applications, developing and deploying Dapps (web3), and mentoring aspiring software developers.
 
