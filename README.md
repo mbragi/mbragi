@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm Gar Manji Michael, a Software Engineer with expertise in both Front End and Back End development. My skills cover building web and mobile applications, developing and deploying Dapps (web3), and mentoring aspiring software developers.
+I'm Gar Manji Michael, a Software Engineer with expertise in both front-end and Back End development. My skills cover building web and mobile applications, developing and deploying Dapps (web3), and mentoring aspiring software developers.
 
 I'm passionate about creating clean, readable, and reusable code that scales effectively. My goal is to use the latest technologies and tools to provide practical solutions to real-life scenarios.
 
@@ -12,7 +12,7 @@ Looking forward to the opportunity to work together! 😊
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbragi" alt="mbragi" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbragi&show_icons=true&locale=en&layout=compact" alt="mbragi" /></p>
+<p style='background:'#000'><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbragi&show_icons=true&locale=en&layout=compact" alt="mbragi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbragi&show_icons=true&locale=en" alt="mbragi" /></p>
 
