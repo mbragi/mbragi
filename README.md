@@ -16,8 +16,6 @@ Looking forward to an opportunity to work together!
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbragi&theme=cobalt2)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbragi&show_icons=true&locale=en&theme=cobalt2" alt="mbragi" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbragi&theme=cobalt2" alt="mbragi" /></p>
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mbragi&theme=cobalt2" alt="mbragi" />
