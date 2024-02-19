@@ -4,7 +4,7 @@
 
 I'm Gar Manji Michael, a Software Engineer with expertise in both front-end and back-end development. My skills cover building web and mobile applications, developing and deploying Dapps (web3), and mentoring aspiring software developers.
 
-I'm passionate about creating clean, readable, and reusable code that scales effectively. My goal is to use the latest technologies and tools to provide practical solutions to real-life scenarios.
+I'm passionate about creating clean, readable, and reusable code that scales effectively. My goal is to use the latest technologies and tools to provide practical solutions to real-life challenges/scenarios.
 
 -If you're interested in collaborating or hiring me for a project, please feel free to reach out to me at spontaneousmanji@gmail.com.
 
