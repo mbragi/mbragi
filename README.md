@@ -2,7 +2,7 @@
 
 # Hello there! 👋
 
-I'm Gar Manji Michael, a Software Engineer with expertise in both front-end and back-end development. My skills cover building web and mobile applications, developing and deploying Dapps (web3).
+I'm Gar Manji Michael, a Software Engineer with expertise in both front-end and back-end development. My services in a nutshell cover building web and mobile applications, on both web2 and web3.
 
 I'm passionate about creating clean, readable, and reusable code that scales effectively. My goal is to use the latest technologies and tools to provide practical solutions to real-life challenges/scenarios.
 
