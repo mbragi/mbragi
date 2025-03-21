@@ -4,7 +4,7 @@
 
 # Hello there! 👋
 
-I'm Gar Manji Michael, a dedicated Software Engineer with a robust background in both front-end and back-end development. I pride myself on my ability to solve complex problems and deliver innovative, scalable solutions. Whether it's refining existing systems or architecting new ones from scratch, I bring a deep commitment to quality, efficiency, and clear, maintainable code.
+I'm Gar Manji Michael, a dedicated Software Engineer. I pride myself on my ability to solve complex problems and deliver innovative, scalable solutions. Whether it's refining existing systems or architecting new ones from scratch, I bring a deep commitment to quality, efficiency, and clear, maintainable code.
 
 My extensive experience has taught me that effective problem solving goes beyond technical know-how—it’s about understanding the challenge at its core and devising strategies that drive lasting impact. I'm always eager to tackle new challenges and collaborate on projects that push the boundaries of what's possible.
 
