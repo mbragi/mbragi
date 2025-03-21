@@ -16,13 +16,13 @@ Looking forward to an opportunity to work together!
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbragi&theme=cobalt2)
 
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbragi&theme=cobalt2" alt="mbragi" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbragi&theme=cobalt2" alt="mbragi" /></p> 
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mbragi&theme=cobalt2" alt="mbragi" />
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mbragi&theme=cobalt2" />
 </p>
 
-<!-- <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbragi&theme=github_dark" alt="mbragi" /></a> </p> --->
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbragi&theme=github_dark" alt="mbragi" /></a> </p> 
 
 
               
