@@ -25,7 +25,7 @@ If you're interested in collaborating or have a project in mind, feel free to re
 
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mbragi&theme=github_dark" alt="mbragi" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mbragi&theme=algolia&column=-1" alt="mbragi" />
   </a>
 </p>
 
